@@ -7,6 +7,6 @@ scoring logic, and horizontal obstacle generation. The bird moves up on key pres
 Pillars scroll horizontally across the screen at a constant speed, and the player earns a score 
 for each successful pass through the gaps. All animations, screen rendering, and game logic are managed using low-level interrupts and direct memory manipulation, showcasing advanced handling of control flow, 
 delays, input/output, and data structures in Assembly.
-if you need any help contact me throgh my mail 
+if you need any help contact me through mail 
 alishahzd025@gmail.com 
 
